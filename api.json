@@ -1,62 +1,57 @@
 [
     {
-    "title": "Cazador",
-    "name": "Giyu Tomioka, Pilar del Agua. Ufotable",
-    "descripcion": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+        "title": "Pilar",
+        "name": "Gyomei Himejima, Pilar de la Roca.",
+        "description": "Conocido como el Pilar de la Roca, Himejima es lo que todo cazador de demonios quisiera llegar a ser. Su fuerza increíble y su desenfrenado por de combate gracias a su contextura le convirtieron en el Pilar más fuerte entre los pilares.",
+        "id": 1
     },
     {
-    "title": "Cazador",
-    "name": "Mitsuri Kanroji, Pilar del Amor. Ufotable.",
-    "descripcion": "qui est esse",
-    "body": "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla"
+        "title": "Pilar",
+        "name": "Tengen Uzui, Pilar del Sonido",
+        "description": "Uno de los añadidos más recientes al juego como DLC, el reconocido Pilar del Sonido. Uzui solía ser un ninja, pero su respiración del sonido única le otorgó un título entre los mejores Pilares de demonios. En la serie ha demostrado ser bastante fuerte, excéntrico y valiente; quizá demasiado.",
+        "id": 2
+        },
+    {
+        "title": "Pilar",
+        "name": "Sanemi Shinazugawa, Pilar del Viento.",
+        "description": "el Pilar del Viento. Su sed de sangre demoníaca y ansias por exterminar a estos villanos le dieron el título del Pilar de demonios más peligroso entre los pilares, habiendo derrotado a miles de ellos desde una temprana edad.",
+        "id": 3
     },
     {
-    "title": "Cazador",
-    "name": "Obanai Iguro, Pilar de la Serpiente. Ufotable.",
-    "descripcion": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"
+        "title": "Pilar",
+        "name": "Giyu Tomioka, Pilar del Agua. Ufotable",
+        "description": "Es el primer pilar que llama nuestra atención en la historia, conocido como el Pilar del Agua",
+        "id": 4
     },
     {
-    "title": "Cazador",
-    "name": "Sanemi Shinazugawa, Pilar del Viento.",
-    "descripcion": "eum et est occaecati",
-    "body": "ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit"
+        "title": "Pilar",
+        "name": "Kyojuro Rengoku, Pilar del Fuego.",
+        "description": "También conocido como el Pilar de la Llama. Es sin duda uno de los más poderosos y populares guerreros entre los personajes de Demon Slayer: Kimetsu no Yaiba. Se ganó rápidamente el amor de los fans al demostrar su pureza de corazón y su honor en combate.",
+        "id": 5
+        },
+    {
+        "title": "Pilar",
+        "name": "Mitsuri Kanroji, Pilar del Amor. Ufotable.",
+        "description": "Kanroji es simplemente una genio. En lugar de heredar un título como otros personajes, creó su propia técnica conocida como la respiración del amor, lo que la convirtió en el Pilar del Amor.",
+        "id": 6
     },
     {
-    "title": "Cazador",
-    "name": "Gyomei Himejima, Pilar de la Roca.",
-    "descripcion": "nesciunt quas odio",
-    "body": "repudiandae veniam quaerat sunt sed alias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque"
+        "title": "Pilar",
+        "name": "Muichiro Tokito, Pilar de la Niebla",
+        "description": "Nada menos que el actual Pilar de la Niebla, Tokitō demostró desde muy joven una habilidad increíble con la espada, hasta el punto en que fue considerado el mayor genio en la historia de la compañía caza demonios.",
+        "id": 7
     },
     {
-    "title": "Cazador",
-    "name": "Kyojuro Rengoku, Pilar del Fuego.",
-    "descripcion": "dolorem eum magni eos aperiam quia",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi mollitia nobis aliquid molestiae perspiciatis et ea nemo ab reprehenderit accusantium quas voluptate dolores velit et doloremque molestiae"
+        "title": "Pilar",
+        "name": "Obanai Iguro, Pilar de la Serpiente. Ufotable.",
+        "description": "El Pilar de la Serpiente quizá no sea tan fuerte como Himejima, pero no por ello merece menos reconocimiento. Nadie sabe lo difícil que habrá sido dedicar tu vida a derrotar el mal tras haber sido criado por un clan de mujeres bandidas que adoraban a un demonio serpiente.",
+        "id": 8
     },
     {
-    "title": "Cazador",
-    "name": "Shinobu Kocho, Pilar del Insecto.",
-    "descripcion": "magnam facilis autem",
-    "body": "dolore placeat quibusdam ea quo vitae magni quis enim qui quis quo nemo aut saepe quidem repellat excepturi ut quia sunt ut sequi eos ea sed quas"
-    },
-    {
-    "title": "Cazador",
-    "name": "Tengen Uzui, Pilar del Sonido",
-    "descripcion": "dolorem dolore est ipsam",
-    "body": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae"
-    },
-    {
-    "title": "Cazador",
-    "name": "Muichiro Tokito, Pilar de la Niebla",
-    "descripcion": "nesciunt iure omnis dolorem tempora et accusantium",
-    "body": "consectetur animi nesciunt iure dolore enim quia ad veniam autem ut quam aut nobis et est aut quod aut provident voluptas autem voluptas"
-    },
-    {
-    "title": "Cazador",
-    "name": "Giyu Tomioka, Pilar del Agua",
-    "descripcion": "optio molestias name quia eum",
-    "body": "quo et expedita modi cum officia vel magni doloribus qui repudiandae vero nisi sit quos veniam quod sed accusamus veritatis error"
+        "title": "Pilar",
+        "name": "Shinobu Kocho, Pilar del Insecto.",
+        "description": "Una de las figuras más llamativas de la serie y conocida como el Pilar del Insecto. Apareció en los primeros arcos de la serie y demuestra su habilidad mortal con la espada. Es rápida y certera, pero tiene la fama de no tener la fuerza que poseen otros pilares. Sin embargo, sus cortes le infligen un mortal veneno de plantas glicina a sus enemigos.",
+        "id": 9
     }
+        
 ]
