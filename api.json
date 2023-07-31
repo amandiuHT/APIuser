@@ -1,63 +1,63 @@
 [
     {
         "title": "Pilar",
-        "name": "Gyomei Himejima, Pilar de la Roca.",
+        "nameUser": "Gyomei Himejima, Pilar de la Roca.",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/gyomei-himejima-anime-550x800.jpg.webp",
         "description": "Conocido como el Pilar de la Roca, Himejima es lo que todo cazador de demonios quisiera llegar a ser. Su fuerza increíble y su desenfrenado por de combate gracias a su contextura le convirtieron en el Pilar más fuerte entre los pilares.",
         "id": 1
     },
     {
         "title": "Pilar",
-        "name": "Tengen Uzui, Pilar del Sonido",
+        "nameUser": "Tengen Uzui, Pilar del Sonido",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/tengen-uzui-anime.jpg",
         "description": "Uno de los añadidos más recientes al juego como DLC, el reconocido Pilar del Sonido. Uzui solía ser un ninja, pero su respiración del sonido única le otorgó un título entre los mejores Pilares de demonios. En la serie ha demostrado ser bastante fuerte, excéntrico y valiente; quizá demasiado.",
         "id": 2
         },
     {
         "title": "Pilar",
-        "name": "Sanemi Shinazugawa, Pilar del Viento.",
+        "nameUser": "Sanemi Shinazugawa, Pilar del Viento.",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/sanemi-anime-560x800.png.webp",
         "description": "el Pilar del Viento. Su sed de sangre demoníaca y ansias por exterminar a estos villanos le dieron el título del Pilar de demonios más peligroso entre los pilares, habiendo derrotado a miles de ellos desde una temprana edad.",
         "id": 3
     },
     {
         "title": "Pilar",
-        "name": "Giyu Tomioka, Pilar del Agua. Ufotable",
+        "nameUser": "Giyu Tomioka, Pilar del Agua. Ufotable",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/giyu-tomioka-anime.jpg.webp",
         "description": "Es el primer pilar que llama nuestra atención en la historia, conocido como el Pilar del Agua",
         "id": 4
     },
     {
         "title": "Pilar",
-        "name": "Kyojuro Rengoku, Pilar del Fuego.",
+        "nameUser": "Kyojuro Rengoku, Pilar del Fuego.",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/kyojuro-anime-560x800.png.webp",
         "description": "También conocido como el Pilar de la Llama. Es sin duda uno de los más poderosos y populares guerreros entre los personajes de Demon Slayer: Kimetsu no Yaiba. Se ganó rápidamente el amor de los fans al demostrar su pureza de corazón y su honor en combate.",
         "id": 5
         },
     {
         "title": "Pilar",
-        "name": "Mitsuri Kanroji, Pilar del Amor. Ufotable.",
+        "nameUser": "Mitsuri Kanroji, Pilar del Amor. Ufotable.",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/kanroji-anime.png",
         "description": "Kanroji es simplemente una genio. En lugar de heredar un título como otros personajes, creó su propia técnica conocida como la respiración del amor, lo que la convirtió en el Pilar del Amor.",
         "id": 6
     },
     {
         "title": "Pilar",
-        "name": "Muichiro Tokito, Pilar de la Niebla",
+        "nameUser": "Muichiro Tokito, Pilar de la Niebla",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/muichiro-anime-560x800.png.webp",
         "description": "Nada menos que el actual Pilar de la Niebla, Tokitō demostró desde muy joven una habilidad increíble con la espada, hasta el punto en que fue considerado el mayor genio en la historia de la compañía caza demonios.",
         "id": 7
     },
     {
         "title": "Pilar",
-        "name": "Obanai Iguro, Pilar de la Serpiente. Ufotable.",
+        "nameUser": "Obanai Iguro, Pilar de la Serpiente. Ufotable.",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/obanai-anime-560x800.png.webp",
         "description": "El Pilar de la Serpiente quizá no sea tan fuerte como Himejima, pero no por ello merece menos reconocimiento. Nadie sabe lo difícil que habrá sido dedicar tu vida a derrotar el mal tras haber sido criado por un clan de mujeres bandidas que adoraban a un demonio serpiente.",
         "id": 8
     },
     {
         "title": "Pilar",
-        "name": "Shinobu Kocho, Pilar del Insecto.",
+        "nameUser": "Shinobu Kocho, Pilar del Insecto.",
         "image": "https://areajugones.sport.es/wp-content/uploads/2022/12/shinobu-anime.png",
         "description": "Una de las figuras más llamativas de la serie y conocida como el Pilar del Insecto. Apareció en los primeros arcos de la serie y demuestra su habilidad mortal con la espada. Es rápida y certera, pero tiene la fama de no tener la fuerza que poseen otros pilares. Sin embargo, sus cortes le infligen un mortal veneno de plantas glicina a sus enemigos.",
         "id": 9
